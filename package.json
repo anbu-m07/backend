@@ -2,6 +2,7 @@
   "name": "interview-analyzer-backend",
   "version": "1.0.0",
   "type": "module",
+  "private": true,
   "scripts": {
     "start": "node server.js"
   },
@@ -13,11 +14,3 @@
     "dotenv": "^17.2.3"
   }
 }
-{
-  "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  }
-}
-
-
